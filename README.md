@@ -1,4 +1,12 @@
-## Hi there 👋
+<h1 align="center"> Hello there! 👋 </h1>
+
+## About me 🫣
+
+My name is Edgar Ferreira and I'm a student of Engenharia Informática at Universidade do Minho, Braga, Portugal 🇵🇹
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=Edegare&show_icons=true&theme=radical)
+
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edegare&layout=compact&theme=radical)
 
 <!--
 **Edegare/Edegare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
