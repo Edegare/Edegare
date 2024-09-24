@@ -1,10 +1,10 @@
 <h1 align="center"> Hello there! 👋 </h1>
 
-## About me 🫣
+## About me 
 
 My name is Edgar Ferreira and I'm a student of Software Engineer at Universidade do Minho, Braga, Portugal 🇵🇹
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=Edegare&show_icons=true&theme=radical)
+<!-- ![My Stats](https://github-readme-stats.vercel.app/api?username=Edegare&show_icons=true&theme=radical)
 
 ![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edegare&layout=compact&theme=radical)
 
