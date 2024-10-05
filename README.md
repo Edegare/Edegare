@@ -2,7 +2,7 @@
 
 ## About me 
 
-My name is Edgar Ferreira and I'm a student of Software Engineering at Universidade do Minho, Braga, Portugal 🇵🇹
+My name is Edgar Ferreira and I'm a Software Engineering Student at Universidade do Minho, Braga, Portugal 🇵🇹
 
 <!-- ![My Stats](https://github-readme-stats.vercel.app/api?username=Edegare&show_icons=true&theme=radical)
 
